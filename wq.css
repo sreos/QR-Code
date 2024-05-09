@@ -1,0 +1,32 @@
+/* Temel CSS Stilleri */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+/* Link Stilleri */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Resim Stilleri */
+img {
+    max-width: 100%;
+    height: auto;
+}
